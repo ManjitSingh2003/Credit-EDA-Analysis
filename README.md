@@ -19,6 +19,10 @@ Loan-providing companies face a major challenge in determining whether to approv
 We aim to analyze a dataset containing loan applications, previous applications, and their outcomes to extract meaningful insights using univariate, bivariate, and correlation analysis.
 
 ## Dataset
+The dataset used for this analysis is too large to be hosted directly in this repository. You can download the dataset from the following Google Drive link:
+
+[**Dataset Download Link**](https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB)
+
 The project uses three main datasets:
 1. **application_data.csv** – Information about clients at the time of their loan application.
 2. **previous_application.csv** – Information on previous loan applications by the clients.
